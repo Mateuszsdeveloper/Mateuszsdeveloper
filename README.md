@@ -1,6 +1,6 @@
 Hello, World!. 
 I'm Mateusz from Poland. I really enjoy lerning java and frameworks.
-I invite you to follow my path to becoming a developer
+I invite you to follow my path to becoming a developer.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mateuszsdeveloper)  
 
