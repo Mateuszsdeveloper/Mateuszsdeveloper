@@ -1,4 +1,4 @@
-![1](https://user-images.githubusercontent.com/114407960/199181027-ca58d044-0f73-4778-922a-09853791abbd.jpg)
+
 
 Hello, World!. 
 I'm Mateusz from Poland. I really enjoy lerning java and frameworks.
