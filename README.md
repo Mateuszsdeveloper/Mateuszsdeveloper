@@ -1,9 +1,9 @@
 
-![PA292537-1mat](https://user-images.githubusercontent.com/114407960/199791960-9bc6440f-ad57-4154-8868-81f9d3d8ea40.jpg)
-
 Hello, World!. 
 I'm Mateusz from Poland. I really enjoy lerning java and frameworks.
 I invite you to follow my path to becoming a developer.
+![PA292537-1mat](https://user-images.githubusercontent.com/114407960/199794545-5590f323-9cfe-43e3-a922-bb3f3dfa7e84.jpg)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mateuszsdeveloper)  
 
