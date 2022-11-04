@@ -1,6 +1,5 @@
 
-**<tekst>** **Hello, World! I'm Mateusz from Poland. I really enjoy lerning java and frameworks.
-I invite you to follow my path to becoming a developer.**.
+
 
 ![PA292537-1mat](https://user-images.githubusercontent.com/114407960/199794545-5590f323-9cfe-43e3-a922-bb3f3dfa7e84.jpg)
 
