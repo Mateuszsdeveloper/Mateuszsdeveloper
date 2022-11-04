@@ -1,4 +1,4 @@
-
+🟥
 **<tekst>** **Hello, World! I'm Mateusz from Poland. I really enjoy lerning java and frameworks.
 I invite you to follow my path to becoming a developer.**.
 
