@@ -6,7 +6,10 @@ I invite you to follow my path to becoming a developer.**.
   
 Languages and Tools:
   
-![j](https://user-images.githubusercontent.com/114407960/199925386-db09e8eb-cde8-4dd7-b849-12a15831e75d.png)  
+![j](https://user-images.githubusercontent.com/114407960/199925386-db09e8eb-cde8-4dd7-b849-12a15831e75d.png)  ![sss](https://user-images.githubusercontent.com/114407960/199927060-0a92607b-904a-4b9f-b492-a956dca090c7.png)![g](https://user-images.githubusercontent.com/114407960/199927754-d570dc0b-cb25-45ac-9db8-1a9ae8bc258e.png)
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mateuszsdeveloper)  
