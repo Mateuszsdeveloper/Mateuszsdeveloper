@@ -1,6 +1,4 @@
-
-![aaaaaaaaa](https://user-images.githubusercontent.com/114407960/206511282-acd461a7-c310-4f5c-a75c-2d666b9c8c0f.jpg)
-
+![aaaa](https://user-images.githubusercontent.com/114407960/206512646-48bad54f-c1d3-408c-83c8-80ce25c6d065.jpg)
 
 
 
