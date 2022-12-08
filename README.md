@@ -1,6 +1,8 @@
 ![aaaa](https://user-images.githubusercontent.com/114407960/206512646-48bad54f-c1d3-408c-83c8-80ce25c6d065.jpg)
 
 
+![IMG_20221126_200711_553ddddw](https://user-images.githubusercontent.com/114407960/206552559-9f46f6e5-fcab-4ccb-9529-2fdfc10cf8f5.jpg)
+
 
 🟥**Languages and Tools:**
   
