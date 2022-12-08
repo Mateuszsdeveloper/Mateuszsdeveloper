@@ -1,5 +1,9 @@
+![aa](https://user-images.githubusercontent.com/114407960/206495917-6076eaa1-bc77-4457-893f-f6bfdf0e32a2.jpg)
+
+
+
 🟥
-**<tekst>** **Hello, World! I'm Mateusz from Poland. I really enjoy lerning java and frameworks.
+**<tekst>** ** I'm from Poland and I really enjoy lerning java and frameworks.
 I invite you to follow my path to becoming a developer.**.
 
 🟥**Languages and Tools:**
